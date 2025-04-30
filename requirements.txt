@@ -61,7 +61,7 @@ greenlet==3.1.1
 grpcio==1.67.0
 grpcio-tools==1.67.0
 gymnasium==0.29.1
-h11==0.14.0
+h11==0.16.0
 h5py==3.12.1
 html2text==2024.2.26
 httpcore==1.0.7
@@ -185,10 +185,10 @@ termcolor==2.5.0
 tiktoken==0.9.0
 tinygrad @ git+https://github.com/tinygrad/tinygrad.git@ec120ce6b9ce8e4ff4b5692566a683ef240e8bc8
 tokenizers==0.20.3
-torch==2.5.1
+torch==2.7.0
 torchvision==0.20.1
 tqdm==4.66.4
-transformers==4.46.3
+transformers==4.50.0
 typer==0.15.2
 typing_extensions==4.12.2
 tzdata==2024.2
